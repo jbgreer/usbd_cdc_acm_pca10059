@@ -1,4 +1,4 @@
-# Nordic Semiconductor usbd_cdc_acmPCA10059 nRF52840 Dongle Example
+# Nordic Semiconductor usbd_cdc_acm PCA10059 nRF52840 Dongle Example
 
 In the interest of expanding availability of examples for this device, I have 
 adapted the usbd_cdc_acm example to the nRF5280 Dongle (PCA10059) from the nRF52840 DK (PCA10056).
