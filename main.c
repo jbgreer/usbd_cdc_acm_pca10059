@@ -72,6 +72,9 @@
 #define RX_PIN_NUMBER 15
 #endif  // BOARD_PCA10059
 
+// TODO TESTING ONLY
+#undef NRF_CLI_ENABLED
+
 #if NRF_CLI_ENABLED
 /**
  * @brief CLI interface over UART
